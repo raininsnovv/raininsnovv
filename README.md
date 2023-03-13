@@ -5,7 +5,7 @@
 
 My name is Ibragim Bakaev, and I'm a Frontend Developer.
 
-Currently refactoring the code of [Sowarna](https://sowarna.com) and making some projects with small team!
+Currently refactoring the code of [Sowarna](https://sowarna.com), working Contant Manager & Link Builder on some Freelance projects and making some own projects with small team!
 
 
 ---
