@@ -1,6 +1,6 @@
 ### hola hola 👋
 ---
-### :man-technologist-medium-skin-tone: About Me :
+### man-technologist-medium-skin-tone: About Me :
 
 My name is Ibragim Bakaev, and I'm a Frontend Developer.
 
