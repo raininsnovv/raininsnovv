@@ -4,7 +4,7 @@
 
 My name is Ibragim Bakaev, and I'm a Frontend Developer.
 
-Currently working on some Freelance projects like Sowarna(https://sowarna.com) at same time!
+Currently working on some Freelance projects like [Sowarna](https://sowarna.com) at same time!
 
 
 ---
