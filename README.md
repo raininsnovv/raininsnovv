@@ -25,7 +25,6 @@ Currently working on some Freelance projects like Sowarna<src="https://sowarna.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" **alt="Eslint" width="60" height="60"/>
-  <img src="[https://styled-components.com/logo.png](https://styled-components.com/logo.png)" title="Eslint" **alt="Eslint" width="60" height="60"/>
 </div>
 ---
 
