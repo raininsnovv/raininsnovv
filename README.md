@@ -4,9 +4,8 @@
 
 My name is Ibragim Bakaev, and I'm a Frontend Developer.
 
-Currently working on some Freelance projects like <a src:'https://sowarna.com/en'>Sowarna at same time!
+Currently working on some Freelance projects like Sowarna<src="https://sowarna.com"> at same time!
 
-Always open for a chat and potentially a collaboration!
 
 ---
 ### :hammer_and_wrench: My Skills:
@@ -30,4 +29,4 @@ Always open for a chat and potentially a collaboration!
 </div>
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarborz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raininsnovv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
