@@ -1,4 +1,4 @@
-### hola hola 👋 ![image](https://user-images.githubusercontent.com/98455005/224717535-8eb35864-bea4-41f6-bed8-cfeff3b1e296.png)
+### hola hola 👋
 
 ---
 ### 👨🏽‍💻 About Me :
