@@ -7,7 +7,7 @@
 
 - Worked as an information security specialist for seven years at [Gazprom Transgaz Grozny](https://grozny-tr.gazprom.ru/).
 
-- Currently refactoring the code of [Sowarna](https://sowarna.com), working Web Developer & Link Builder at company Alfa and making some own projects with small team!
+- Currently working as Web Developer & Link Builder at company Alfa and making some own projects with small team!
 
 
 ---
