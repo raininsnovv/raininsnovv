@@ -3,8 +3,6 @@
 ---
 ### 👨🏽‍💻 About Me :
 
-- My name is Ibragim Bakaev, and I'm a Frontend Developer.
-
 - Worked as an information security specialist for seven years at [Gazprom Transgaz Grozny](https://grozny-tr.gazprom.ru/).
 
 - Currently working as Web Developer/Content Manager at company Alfa and making some own projects with small team!
