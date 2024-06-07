@@ -1,7 +1,4 @@
----
-### 👨🏽‍💻
-
-- Worked as an information security specialist for seven years at [Gazprom Transgaz Grozny](https://grozny-tr.gazprom.ru/).
+redoc
 
 ---
 <div>
